@@ -43,7 +43,7 @@ server. The path depends on the client architecture because we need different
 versions of the boot loader for PC BIOS, UEFI 32 bit, and UEFI 64 bit systems.
 
 If you are using a different kind of DHCP server, you have to refer to its
-documentation in order to find out how to the the IP address of the boot server
+documentation in order to find out how to set the IP address of the boot server
 and the architecture-dependent path to the boot loader.
 
 We are going to set up the boot loader (GRUB 2) in the :ref:`next section
